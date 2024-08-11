@@ -12,7 +12,7 @@ I’m a passionate software developer specializing in API Gateways. I enjoy work
 * 🔗 API Gateways: Akana, KONG, APIGEE architect
 ---
 📚 **Education**
-* 🎓 Master of Computer Application in Anna University Chennai
+* 🎓 Master of Computer Application, Kongu Engineering College (KEC), affiliated with Anna University Chennai.
 ---
 💼 **Experience** 
 * Scope international ( 2008- 2012 ) 
